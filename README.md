@@ -23,10 +23,10 @@ The **Car Price Analysis Dashboard** is an interactive Tableau visualization des
 - **Lowest Mileage Cars** → Highlights cars with the least driven distance.
 
 ## 📌 Features & Functionality
-✅ **Export Options** → Users can download the dashboard as **PDF, Image, or Excel Crosstab**.
-✅ **Interactive Filtering** → Allows deep dives into specific brands, models, and pricing factors.
-✅ **Last Updated Timestamp** → Ensures data freshness is visible.
-✅ **User-Friendly UI** → Designed with a clear and structured layout for easy navigation.
+- ✅ **Export Options** → Users can download the dashboard as **PDF, Image, or Excel Crosstab**.
+- ✅ **Interactive Filtering** → Allows deep dives into specific brands, models, and pricing factors.
+- ✅ **Last Updated Timestamp** → Ensures data freshness is visible.
+- ✅ **User-Friendly UI** → Designed with a clear and structured layout for easy navigation.
 
 ## 🎨 UI Design & Color Scheme
 - **Primary Color**: Light Blue (#A6D8E9) → Represents clarity and reliability.
@@ -54,7 +54,7 @@ This project is licensed under the **MIT License**.
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## 📬 Contact
-For any questions or collaboration inquiries, reach out via **[LinkedIn](https://www.linkedin.com/)**.
+For any questions or collaboration inquiries, reach out via **[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mshahzadpk/))**.
 
 ---
 
