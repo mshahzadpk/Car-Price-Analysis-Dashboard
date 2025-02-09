@@ -54,7 +54,7 @@ This project is licensed under the **MIT License**.
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## 📬 Contact
-For any questions or collaboration inquiries, reach out via **[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mshahzadpk/))**.
+For any questions or collaboration inquiries, reach out via **[LinkedIn](https://www.linkedin.com/in/mshahzadpk/)**.
 
 ---
 
